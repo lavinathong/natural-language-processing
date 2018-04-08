@@ -235,28 +235,6 @@
    ]
   },
   {
-
-   "cell_type": "code",
-   "execution_count": 10,
-   "metadata": {},
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "'Getting error - type \"json\" does not exist - in Postgresql during rake db migrate'"
-      ]
-     },
-     "execution_count": 10,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "validation.iloc[4]['title']"
-   ]
-  },
-  {
-
    "cell_type": "markdown",
    "metadata": {},
    "source": [
